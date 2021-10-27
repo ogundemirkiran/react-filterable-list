@@ -1,0 +1,5 @@
+ul li {
+  display: flex !important;
+  justify-content: space-between !important;
+  font-size: 1.1em;
+}

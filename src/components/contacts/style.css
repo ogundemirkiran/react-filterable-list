@@ -1,0 +1,9 @@
+.containerCon {
+  margin: auto auto;
+  width: 600px;
+
+  margin-top: 10em;
+  padding: 20px;
+  background-color: gainsboro;
+  border-radius: 10px;
+}
